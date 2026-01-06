@@ -2,5 +2,5 @@ streamlit
 pandas
 numpy
 sqlalchemy
-pytds
+pymssql
 openpyxl
