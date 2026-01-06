@@ -4,3 +4,4 @@ numpy
 sqlalchemy
 pymssql
 openpyxl
+pyodbc
